@@ -143,8 +143,6 @@ This tool provides the closest possible workflow using official, supported behav
 
 ## Roadmap
 
-- Add CSV export
-- Optional reverse-geocoding
 - Grouping places by region/date
 - Apple Shortcuts automation template
 - macOS GUI wrapper app
